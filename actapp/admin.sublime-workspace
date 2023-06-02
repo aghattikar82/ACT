@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fro",
+				"form"
+			],
+			[
+				"OP",
+				"Operator"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"s",
+				"select"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"a",
+				"autofocus"
+			],
+			[
+				"at",
+				"autocomplete"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"st",
+				"studentdata"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"c",
+				"calculator"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"su",
+				"successfully"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"Sub",
+				"btnsubmit"
+			],
+			[
+				"cust",
+				"CustomerFeedback"
+			],
+			[
+				"add",
+				"addcoupons"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"D",
+				"Description"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"mt",
+				"mt-3"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"de",
+				"Delete"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"ul",
+				"urls"
+			],
+			[
+				"pth",
+				"Path"
+			],
+			[
+				"tb",
+				"table"
+			],
+			[
+				"e",
+				"exists"
+			],
+			[
+				"co",
+				"confirmpassword"
+			],
+			[
+				"so",
+				"softdelete"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"ch",
+				"changepasswordcode"
+			],
+			[
+				"au",
+				"autofocus"
+			],
+			[
+				"em",
+				"emfieldname"
+			],
+			[
+				"course",
+				"coursename"
+			],
+			[
+				"n",
+				"Not"
+			],
+			[
+				"R",
+				"Record"
+			],
+			[
+				"Stu",
+				"student"
+			],
+			[
+				"N",
+				"number"
+			],
+			[
+				"ge",
+				"Gander"
+			],
+			[
+				"F",
+				"Father"
+			],
+			[
+				"stude",
+				"StudentRegister"
+			],
+			[
+				"Mo",
+				"Mobile"
+			],
+			[
+				"RE",
+				"Register"
+			],
+			[
+				"lo",
+				"Login"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"A",
+				"autocomplete"
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"pi",
+				"pysics"
+			],
+			[
+				"ma",
+				"Math"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"en",
+				"english"
+			],
+			[
+				"S",
+				"student"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"ls",
+				"lst"
+			],
+			[
+				"el",
+				"Element"
+			],
+			[
+				"E",
+				"Enter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Toggle Block Comment"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.800003052,
+		"history":
+		[
+			"mobilenumber",
+			"rahul",
+			" nmb m"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/HBBLR/HBBLR/HBAPP/templates/ctregister.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/cthome.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/addcoupans.html",
+		"/C/ACT/actapp/models.py",
+		"/C/ACT/ACT/urls.py",
+		"/C/HBBLR/HBBLR/HBAPP/templates/hotellogin.html",
+		"/C/HB2/HBAPP/templates/hotelregister.html",
+		"/C/HB2/HBAPP/templates/adminhhome.html",
+		"/C/HB2/HBAPP/templates/adminedit.html",
+		"/C/HB2/HBAPP/templates/admindisplay.html",
+		"/C/HB2/HBAPP/templates/customerregister.html",
+		"/C/HB2/HBAPP/templates/customersearch.html",
+		"/C/HB2/HB/urls.py",
+		"/C/HB2/HBAPP/urls.py",
+		"/C/HB2/HBAPP/models.py",
+		"/C/HB2/HBAPP/views.py",
+		"/C/ACT/actapp/urls.py",
+		"/C/college/student/templates/register.html",
+		"/C/ACT/ACT/settings.py",
+		"/C/HB2/HB/settings.py",
+		"/C/ACT/actapp/templates/login.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/adminlogin.html",
+		"/C/HBBLR/HBBLR/HBAPP/urls.py",
+		"/C/college/student/views.py",
+		"/C/college/student/models.py",
+		"/C/HB2/HBAPP/templates/adminlogin.html",
+		"/C/college/student/templates/login.html",
+		"/C/employee/details/templates/login.html",
+		"/C/ACT/actapp/templates/UserRegister.html",
+		"/C/ACT/actapp/apps.py",
+		"/C/HBBLR/HBBLR/HBAPP/views.py",
+		"/C/HBBLR/HBBLR/HBAPP/templates/ctcart.html",
+		"/C/Users/RAHUL/OneDrive/Desktop/appad/xc.txt",
+		"/C/HBBLR/HBBLR/HBAPP/templates/orderdetails.html",
+		"/C/college3/student/urls.py",
+		"/C/Users/RAHUL/Downloads/college/college/student/templates/register.html",
+		"/C/college3/student/views.py",
+		"/C/college3/student/models.py",
+		"/C/college3/student/templates/register.html",
+		"/C/Users/RAHUL/Downloads/college/college/student/views.py",
+		"/C/Users/RAHUL/Downloads/college/college/student/models.py",
+		"/C/HB/HB1/HBAPP/views.py",
+		"/C/HB/HB1/HBAPP/urls.py",
+		"/C/HBBLR/HBBLR/HBAPP/models.py",
+		"/C/HBBLR/HBBLR/HBAPP/templates/admindisplay.html",
+		"/C/college3/college3/urls.py",
+		"/C/college3/student/apps.py",
+		"/C/college3/college3/settings.py",
+		"/C/Users/RAHUL/OneDrive/Documents/calculate.html",
+		"/C/Users/RAHUL/OneDrive/Desktop/calculrator/inddex.html",
+		"/C/Users/RAHUL/OneDrive/Documents/style.css",
+		"/C/Users/RAHUL/OneDrive/Documents/calculator.txt",
+		"/C/ph/photos/models.py",
+		"/C/ph/photos/views.py",
+		"/C/ph/photos/urls.py",
+		"/C/employee/details/templates/register.html",
+		"/C/ph/photos/templates/admin.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/Customeroder.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/customerorder.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/ctdisplay.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/displaycoupan.html",
+		"/C/HB/HB1/HBAPP/templates/register.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/editcoupan.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/searchcoupan.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/ctlogin.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/hotelregister.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/itemdisplay.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/mstcategory.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/hotelhome.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/hotelchangepassword.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/adminhead.html",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/index.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/itemedit.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/ctedit.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/mstcategary.html",
+		"/C/HBBLR/HBBLR/HBAPP/templates/mstitemlist.html",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/about.html",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/gallery.html",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/assets/scss/Readme.txt",
+		"/C/HB2/HBAPP/templates/register.html",
+		"/C/ph/photos/templates/photos.html",
+		"/C/ph/ph/urls.py",
+		"/C/Users/RAHUL/AppData/Local/Temp/Temp1_PhotoFolio.zip/PhotoFolio/index.html",
+		"/C/HBBLR_S/HBAPP/templates/register.html",
+		"/C/HBBLR_S/HBAPP/templates/mstcategory.html",
+		"/C/HBBLR_S/HBAPP/templates/ctregister.html",
+		"/C/hb1/hbapp/templates/register.html",
+		"/C/HBBLR_S/HBAPP/templates/searchcoupan.html",
+		"/C/HBBLR_S/HBAPP/templates/mstcategary.html",
+		"/C/HBBLR_S/HBAPP/templates/itemdisplay.html",
+		"/C/HBBLR_S/HBAPP/templates/hotelregister.html",
+		"/C/ph/ph/settings.py",
+		"/C/HBBLR_S/HBAPP/templates/adminedit.html",
+		"/C/HBBLR_S/HBAPP/templates/displaycoupan.html",
+		"/C/HB/HB1/HBAPP/templates/mstcategary.html",
+		"/C/HB/HB1/HBAPP/templates/customersearch.html",
+		"/C/HBBLR_S/HBAPP/templates/hoteledit.html",
+		"/C/HBBLR_S/HBAPP/templates/itemsearch.html",
+		"/C/HBBLR_S/HBAPP/models.py",
+		"/C/ph/photos/apps.py",
+		"/C/Users/RAHUL/student/educational/images/demo/index.html",
+		"/C/Users/RAHUL/OneDrive/Desktop/INDEX.HTML",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/hotel/urls.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/booktable/urls.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/booktable/tests.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/booktable/apps.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/booktable/migrations/__init__.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/booktable/models.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/hotel/settings.py",
+		"/C/Users/RAHUL/OneDrive/Desktop/project/hotel/booktable/views.py",
+		"/C/ph/ph/__init__.py",
+		"/C/ph/photos/templates/photo.html",
+		"/C/Users/RAHUL/OneDrive/Documents/array",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/gallery-single.html",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/sample-inner-page.html",
+		"/C/Rahul/models.html.txt",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/post-wedding.html",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/forms/Readme.txt",
+		"/C/Users/RAHUL/Downloads/PhotoFolio/PhotoFolio/Readme.txt",
+		"/C/Users/RAHUL/Downloads/restoran-1.0.0/restoran-1.0.0/index.html",
+		"/C/Users/RAHUL/Downloads/Neuron Free Website Template - Free-CSS.com/neuron/index.html",
+		"/C/Users/RAHUL/AppData/Local/Temp/Temp1_Neuron Free Website Template - Free-CSS.com.zip/neuron/index.html",
+		"/C/Users/RAHUL/Downloads/download (1).htm",
+		"/C/Users/RAHUL/Downloads/restoran-1.0.0/restoran-1.0.0/contact.html",
+		"/C/edit pemplates/about/head.html",
+		"/C/edit pemplates/contact/head.html",
+		"/C/edit pemplates/last.html",
+		"/C/Users/RAHUL/Downloads/restoran-1.0.0/restoran-1.0.0/team.html"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 180.8,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 62.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boo",
+				"C:\\Users\\RAHUL\\Downloads\\restoran-1.0.0\\restoran-1.0.0\\booking.html"
+			],
+			[
+				" n",
+				"C:\\Users\\RAHUL\\Downloads\\restoran-1.0.0\\restoran-1.0.0\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

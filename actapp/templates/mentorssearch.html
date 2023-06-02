@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>mentors Search</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<center><h2>mentors Search</h2></center>
+	<div style="height: 40px" align="center">
+				{{msg}}
+	</div>
+	<form  name="frmsearch" method="POST" autocomplete="off" enctype="multipart/form-data">
+		<table  class="table table-bordered">
+			<tr>
+				<td>
+				<div class="input-group mb-3">
+					<select name="ddfname" class="form-control" required autofocus>
+						<option>Search By</option>
+						<option value="id">ID</option>
+						<option value="mentors_name">Name</option>
+						
+					</select>
+				</td>
+				<td>
+					<input type="tex" name="txtsearch" class="form-control"  required placeholder="Enter ID/Name">
+				</td>
+				<td>
+					<input type="submit" name="btnsubmit" class="btn btn-success" value="Get Data">
+				</td>
+			</tr>
+		</div>
+		</table>
+			{% csrf_token %}
+	</form>
+			{% if data %}
+	<form name="frmdisplay" method="POST" enctype="multipart/form-data">
+		<table class="table table-bordered" align="center" >
+			<tr>
+				<th>ID</th>
+				<th>mentors_name</th>
+				<th>mentors_Designation</th>
+				<th>mentors_details</th>
+				<th>registerdate</th>
+				<th>image</th>
+				
+			</tr>
+				{% for d in data %}
+			<tr>
+				<td>{{d.id}}</td>
+				<td>{{d.mentors_name}}</td>
+				<td>{{d.mentors_Designation}}</td>
+				<td>{{d.mentors_details}}</td>
+				<td>{{d.registerdate}}</td>
+				
+				<td><img static src="{{d.image}}" height="50px" width="50px"></td>
+		
+				<td>
+					<form name="frmdelete" method="POST">
+						<input type="hidden" name="did" value="{{d.id}}">
+						<input type="submit" name="btnsubmit" class="btn btn-warning" value="Delete">
+						{% csrf_token %}
+					</form>
+				</td>
+				<td>
+					<form name="frmedit" method="POST">
+						<input type="hidden" name="did" value="{{d.id}}">
+						<input type="submit" name="btnsubmit" class="btn btn-primary" value="Edit">
+						{% csrf_token %}
+					</form>
+				</td>
+			</tr>
+
+				{%endfor%}
+		</table>
+				{%endif%}
+
+				{% csrf_token %}
+	</form>
+
+	
+</body>
+</html>
